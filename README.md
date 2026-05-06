@@ -39,9 +39,7 @@ VPNs are widely used in IT environments to ensure security, primarily for connec
 
 I went to WhatIsMyIPAddress.com using my Mac Pro (2019) to determine my public IP address and location. This set a baseline prior to accessing any remote system or VPN.
 
-<p align="center">
-  <img src="images/local-ip.png" width="800">
-</p>
+<img width="1265" height="780" alt="image" src="https://github.com/user-attachments/assets/edec4157-e1e3-4ac1-9e88-f07471c94b88" />
 
 ---
 
@@ -51,17 +49,10 @@ I created a resource group and installed a Windows virtual machine in Microsoft 
 
 Next, I selected Geographic Region and chose Sydney, Australia. After this, I configured login credentials and enabled Remote Desktop Access. As a result, this VM will simulate a remote system hosted in a different location.
 
-<p align="center">
-  <img src="images/azure-vm-creation.png" width="800">
-</p>
+<img width="761" height="905" alt="image" src="https://github.com/user-attachments/assets/a7a5974f-9501-4585-9c19-b520aaafdc0d" />
 
-<p align="center">
-  <img src="images/azure-deployment.png" width="800">
-</p>
+<img width="765" height="521" alt="image" src="https://github.com/user-attachments/assets/3b8b4ffd-920c-4cad-84d6-57d04a5fed73" />
 
-<p align="center">
-  <img src="images/vm-public-ip.png" width="500">
-</p>
 
 ---
 
@@ -69,9 +60,10 @@ Next, I selected Geographic Region and chose Sydney, Australia. After this, I co
 
 I connected my computer to the virtual machine via Microsoft Remote Desktop. After I downloaded the RDP file and logged in with the given credentials. Once that was completed, I accessed the Windows desktop.
 
-<p align="center">
-  <img src="images/remote-desktop.png" width="700">
-</p>
+<img width="227" height="132" alt="image" src="https://github.com/user-attachments/assets/452c12a6-896c-4858-a513-2627ec9d5372" />
+
+
+<img width="752" height="735" alt="image" src="https://github.com/user-attachments/assets/f33a0020-b19e-424b-81fd-aa0097883f50" />
 
 ---
 
@@ -86,9 +78,8 @@ The results showed:
 
 This verified the VM was running from the Azure region selected.
 
-<p align="center">
-  <img src="images/vm-ip-check.png" width="800">
-</p>
+<img width="1751" height="1119" alt="image" src="https://github.com/user-attachments/assets/b5907e3d-5d0a-48a5-bcb1-f7f76d27322b" />
+
 
 ---
 
@@ -102,27 +93,22 @@ Within the VM, I:
 
 ### ProtonVPN Login
 
-<p align="center">
-  <img src="images/proton-login.png" width="700">
-</p>
+<img width="1806" height="1108" alt="image" src="https://github.com/user-attachments/assets/e81c34c1-cfbe-4a23-bfd1-807f7534b989" />
 
 ### Download ProtonVPN
 
-<p align="center">
-  <img src="images/proton-download.png" width="700">
-</p>
+<img width="1634" height="1270" alt="image" src="https://github.com/user-attachments/assets/a37290a0-765b-4470-9095-7d7451fe3fed" />
+
 
 ### Install ProtonVPN
 
-<p align="center">
-  <img src="images/proton-install.png" width="700">
-</p>
+<img width="1192" height="915" alt="image" src="https://github.com/user-attachments/assets/9fc46250-dd74-4029-9b9c-a1e7ef3b3a45" />
+
 
 ### VPN Connected
 
-<p align="center">
-  <img src="images/vpn-connected.png" width="900">
-</p>
+<img width="1997" height="1299" alt="image" src="https://github.com/user-attachments/assets/c8e536b1-c1f1-43bd-a2a9-81a2bf3b1361" />
+
 
 ---
 
@@ -131,9 +117,7 @@ Within the VM, I:
 - New IP address: 37.120.234.195
 - Location: Sydney, Australia
 
-<p align="center">
-  <img src="images/vpn-ip-changed.png" width="800">
-</p>
+<img width="2001" height="978" alt="image" src="https://github.com/user-attachments/assets/336465e4-6086-4868-b460-1255d5103a85" />
 
 ---
 
