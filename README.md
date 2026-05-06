@@ -1,4 +1,3 @@
-# setting-up-protonvpn
 # VPN Project - Setting Up Connection with ProtonVPN
 
 ## Project Summary
