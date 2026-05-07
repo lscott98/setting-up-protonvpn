@@ -39,7 +39,7 @@ VPNs are widely used in IT environments to ensure security, primarily for connec
 
 I went to WhatIsMyIPAddress.com using my Mac Pro (2019) to determine my public IP address and location. This set a baseline prior to accessing any remote system or VPN.
 
-<img width="1265" height="780" alt="image" src="https://github.com/user-attachments/assets/edec4157-e1e3-4ac1-9e88-f07471c94b88" />
+<img width="900" height="400" alt="image" src="https://github.com/user-attachments/assets/edec4157-e1e3-4ac1-9e88-f07471c94b88" />
 
 ---
 
