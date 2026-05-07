@@ -49,9 +49,9 @@ I created a resource group and installed a Windows virtual machine in Microsoft 
 
 Next, I selected Geographic Region and chose Sydney, Australia. After this, I configured login credentials and enabled Remote Desktop Access. As a result, this VM will simulate a remote system hosted in a different location.
 
-<img width="761" height="905" alt="image" src="https://github.com/user-attachments/assets/a7a5974f-9501-4585-9c19-b520aaafdc0d" />
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/a7a5974f-9501-4585-9c19-b520aaafdc0d" />
 
-<img width="765" height="521" alt="image" src="https://github.com/user-attachments/assets/3b8b4ffd-920c-4cad-84d6-57d04a5fed73" />
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/3b8b4ffd-920c-4cad-84d6-57d04a5fed73" />
 
 
 ---
@@ -60,10 +60,10 @@ Next, I selected Geographic Region and chose Sydney, Australia. After this, I co
 
 I connected my computer to the virtual machine via Microsoft Remote Desktop. After I downloaded the RDP file and logged in with the given credentials. Once that was completed, I accessed the Windows desktop.
 
-<img width="227" height="132" alt="image" src="https://github.com/user-attachments/assets/452c12a6-896c-4858-a513-2627ec9d5372" />
+<img width="110" height="70" alt="image" src="https://github.com/user-attachments/assets/452c12a6-896c-4858-a513-2627ec9d5372" />
 
 
-<img width="752" height="735" alt="image" src="https://github.com/user-attachments/assets/f33a0020-b19e-424b-81fd-aa0097883f50" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/f33a0020-b19e-424b-81fd-aa0097883f50" />
 
 ---
 
@@ -78,7 +78,7 @@ The results showed:
 
 This verified the VM was running from the Azure region selected.
 
-<img width="1751" height="1119" alt="image" src="https://github.com/user-attachments/assets/b5907e3d-5d0a-48a5-bcb1-f7f76d27322b" />
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/b5907e3d-5d0a-48a5-bcb1-f7f76d27322b" />
 
 
 ---
@@ -93,21 +93,21 @@ Within the VM, I:
 
 ### ProtonVPN Login
 
-<img width="1806" height="1108" alt="image" src="https://github.com/user-attachments/assets/e81c34c1-cfbe-4a23-bfd1-807f7534b989" />
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/e81c34c1-cfbe-4a23-bfd1-807f7534b989" />
 
 ### Download ProtonVPN
 
-<img width="1634" height="1270" alt="image" src="https://github.com/user-attachments/assets/a37290a0-765b-4470-9095-7d7451fe3fed" />
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/a37290a0-765b-4470-9095-7d7451fe3fed" />
 
 
 ### Install ProtonVPN
 
-<img width="1192" height="915" alt="image" src="https://github.com/user-attachments/assets/9fc46250-dd74-4029-9b9c-a1e7ef3b3a45" />
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/9fc46250-dd74-4029-9b9c-a1e7ef3b3a45" />
 
 
 ### VPN Connected
 
-<img width="1997" height="1299" alt="image" src="https://github.com/user-attachments/assets/c8e536b1-c1f1-43bd-a2a9-81a2bf3b1361" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/c8e536b1-c1f1-43bd-a2a9-81a2bf3b1361" />
 
 
 ---
@@ -117,7 +117,7 @@ Within the VM, I:
 - New IP address: 37.120.234.195
 - Location: Sydney, Australia
 
-<img width="2001" height="978" alt="image" src="https://github.com/user-attachments/assets/336465e4-6086-4868-b460-1255d5103a85" />
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/336465e4-6086-4868-b460-1255d5103a85" />
 
 ---
 
